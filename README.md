@@ -26,10 +26,10 @@ With years of experience across various industries, I've contributed to **UI lib
 <summary>
 Mako Launcher / 2025-12-19
 
-[![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmiguelrivas/mako) [![Website](https://img.shields.io/badge/Website-966?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmiguelrivas/mako)
+[![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pomboverso/mako) [![Website](https://img.shields.io/badge/Website-966?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pomboverso/mako)
 </summary>
 
-![Preview](https://raw.githubusercontent.com/jmiguelrivas/mako/refs/heads/master/metadata/mako_preview.svg)
+![Preview](https://raw.githubusercontent.com/pomboverso/mako/refs/heads/master/metadata/mako_preview.svg)
 
 **Mako** is a **minimal, privacy-first Android launcher** designed for focus, speed, and
 simplicity.
@@ -39,7 +39,27 @@ distractions to a minimum by emphasizing clarity and intentional interaction.
 
 | Home | Settings | About |
 | - | - | - |
-| ![Home](https://raw.githubusercontent.com/jmiguelrivas/mako/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png) | ![Settings](https://raw.githubusercontent.com/jmiguelrivas/mako/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png) | ![About](https://raw.githubusercontent.com/jmiguelrivas/mako/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png) |
+| ![Home](https://raw.githubusercontent.com/pomboverso/mako/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png) | ![Settings](https://raw.githubusercontent.com/pomboverso/mako/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png) | ![About](https://raw.githubusercontent.com/pomboverso/mako/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png) |
+</details>
+
+<details name="project" open>
+<summary>
+Chip Defense: Copper / 2026-01-21
+
+[![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pomboverso/chip-defense-copper) [![Website](https://img.shields.io/badge/Website-696?style=for-the-badge&logo=github&logoColor=white)](https://chip-defense.github.io)
+</summary>
+
+![Preview](https://raw.githubusercontent.com/pomboverso/chip-defense-copper/e54e9587d01b3b74216c2d836631195230d02dd2/metadata/preview.svg)
+
+**ChipDefense: Copper** is a fork of **ChipDefense** (originally created by **Oliver Chadenas**) and
+is released under the **MIT License**.
+
+This game is a casual Android tower defense game based on electric circuits and logic chips, evoking
+the feel of classic 8-bit micro-processors.
+
+| Home | Settings | Game |
+| - | - | - |
+| ![Home](https://github.com/pomboverso/chip-defense-copper/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png?raw=true) | ![Settings](https://github.com/pomboverso/chip-defense-copper/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png?raw=true) | ![Game](https://github.com/pomboverso/chip-defense-copper/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/7.png?raw=true) |
 </details>
 
 <details name="project">
@@ -61,7 +81,7 @@ Salishan Keyboard / 2025-11-15
 <summary>
 Morfosis / 2025-09-06
 
-[![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmiguelrivas/morfosis) [![Website](https://img.shields.io/badge/Website-966?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmiguelrivas/morfosis)
+[![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pomboverso/morfosis) [![Website](https://img.shields.io/badge/Website-966?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pomboverso/morfosis)
 
 </summary>
 
@@ -71,7 +91,7 @@ Morfosis is a **Flutter app** for offline media conversion, focused on privacy a
 
 | Queue (Empty) | Queue | Settings | About |
 |---------------|-------|----------|-------|
-| ![Queue Empty](https://raw.githubusercontent.com/jmiguelrivas/morfosis/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png) | ![Queue](https://raw.githubusercontent.com/jmiguelrivas/morfosis/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png) | ![Settings](https://raw.githubusercontent.com/jmiguelrivas/morfosis/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png) | ![About](https://raw.githubusercontent.com/jmiguelrivas/morfosis/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png) |
+| ![Queue Empty](https://raw.githubusercontent.com/pomboverso/morfosis/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png) | ![Queue](https://raw.githubusercontent.com/pomboverso/morfosis/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png) | ![Settings](https://raw.githubusercontent.com/pomboverso/morfosis/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png) | ![About](https://raw.githubusercontent.com/pomboverso/morfosis/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png) |
 
 > App preview
 
@@ -184,7 +204,7 @@ A 3D color cube visualizer built with native Web Components and Three.js, this p
 <summary>
 Sine-Based Oscillation
 
-[![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmiguelrivas/jmiguelrivas.github.io/tree/main/bounce) [![Website](https://img.shields.io/badge/Website-696?style=for-the-badge&logo=github&logoColor=white)](https://jmiguelrivas.github.io/bounce)
+[![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pomboverso/pomboverso.github.io/tree/main/bounce) [![Website](https://img.shields.io/badge/Website-696?style=for-the-badge&logo=github&logoColor=white)](https://pomboverso.github.io/bounce)
 </summary>
 
 
