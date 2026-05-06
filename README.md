@@ -26,10 +26,10 @@ With years of experience across various industries, I've contributed to **UI lib
 <summary>
 Mako Launcher / 2025-12-19
 
-[![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pomboverso/mako) [![Website](https://img.shields.io/badge/Website-966?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pomboverso/mako)
+[![Github Source](https://img.shields.io/badge/Github%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rama-io/mako) [![Website](https://img.shields.io/badge/Website-966?style=for-the-badge&logo=github&logoColor=white)](https://rama-io.github.io/mako.html)
 </summary>
 
-![Preview](https://raw.githubusercontent.com/pomboverso/mako/refs/heads/master/metadata/mako_preview.svg)
+![Preview](https://raw.githubusercontent.com/rama-io/mako/1137d65fd131ee354a9a8b114bf93cfa3a3235eb/docs/img/mako_header_1200x630.svg)
 
 **Mako** is a **minimal, privacy-first Android launcher** designed for focus, speed, and
 simplicity.
@@ -39,62 +39,7 @@ distractions to a minimum by emphasizing clarity and intentional interaction.
 
 | Home | Settings | About |
 | - | - | - |
-| ![Home](https://raw.githubusercontent.com/pomboverso/mako/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png) | ![Settings](https://raw.githubusercontent.com/pomboverso/mako/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png) | ![About](https://raw.githubusercontent.com/pomboverso/mako/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png) |
-</details>
-
-<details name="project" open>
-<summary>
-Chip Defense: Copper / 2026-01-21
-
-[![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pomboverso/chip-defense-copper) [![Website](https://img.shields.io/badge/Website-696?style=for-the-badge&logo=github&logoColor=white)](https://chip-defense.github.io)
-</summary>
-
-![Preview](https://raw.githubusercontent.com/pomboverso/chip-defense-copper/e54e9587d01b3b74216c2d836631195230d02dd2/metadata/preview.svg)
-
-**ChipDefense: Copper** is a fork of **ChipDefense** (originally created by **Oliver Chadenas**) and
-is released under the **MIT License**.
-
-This game is a casual Android tower defense game based on electric circuits and logic chips, evoking
-the feel of classic 8-bit micro-processors.
-
-| Home | Settings | Game |
-| - | - | - |
-| ![Home](https://github.com/pomboverso/chip-defense-copper/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png?raw=true) | ![Settings](https://github.com/pomboverso/chip-defense-copper/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png?raw=true) | ![Game](https://github.com/pomboverso/chip-defense-copper/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/7.png?raw=true) |
-</details>
-
-<details name="project">
-<summary>
-Salishan Keyboard / 2025-11-15
-
-[![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salishan/salishan) [![Website](https://img.shields.io/badge/Website-696?style=for-the-badge&logo=github&logoColor=white)](https://salishan.github.io)
-</summary>
-
-[![Salishan](https://raw.githubusercontent.com/salishan/salishan.github.io/master/metadata/mobile.webp)](https://salishan.github.io)
-
-**Salishan** is a **keyboard layout for Salishan and neighboring Indigenous languages of the Pacific Northwest**. It extends the standard English keyboard with **dead keys for glottalization, acute accent, tilde, and other diacritics**, enabling efficient typing of **ejective, glottalized, and lateral consonants**, as well as **special vowels** used across multiple Salishan languages. The layout also includes **combining diacritics for rare tonal or phonetic markings**, making it a comprehensive tool for **linguists, language learners, and community members**.
-
-[![Salishan Keyboard Layout](https://raw.githubusercontent.com/salishan/salishan/master/metadata/keyboard.webp)](https://salishan.github.io)
-
-</details>
-
-<details name="project">
-<summary>
-Morfosis / 2025-09-06
-
-[![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pomboverso/morfosis) [![Website](https://img.shields.io/badge/Website-966?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pomboverso/morfosis)
-
-</summary>
-
-![Morfosis](https://rama-o.github.io/img/preview-morfosis.webp)
-
-Morfosis is a **Flutter app** for offline media conversion, focused on privacy and speed. Powered by FFmpeg, it lets users convert audio and video files between multiple formats entirely on their device, without requiring an internet connection.
-
-| Queue (Empty) | Queue | Settings | About |
-|---------------|-------|----------|-------|
-| ![Queue Empty](https://raw.githubusercontent.com/pomboverso/morfosis/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png) | ![Queue](https://raw.githubusercontent.com/pomboverso/morfosis/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png) | ![Settings](https://raw.githubusercontent.com/pomboverso/morfosis/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png) | ![About](https://raw.githubusercontent.com/pomboverso/morfosis/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png) |
-
-> App preview
-
+| ![Home](https://raw.githubusercontent.com/rama-io/mako/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png) | ![Settings](https://raw.githubusercontent.com/rama-io/mako/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png) | ![About](https://raw.githubusercontent.com/rama-io/mako/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png) |
 </details>
 
 <details name="project">
@@ -124,34 +69,6 @@ An interactive visual archive tracking all known server merges and top player da
 ![Servers' age](https://raw.githubusercontent.com/lomdb/lomdb.github.io/master/metadata/2-min.webp)
 
 > Servers' Age
-
-</details>
-
-<details name="project">
-<summary>
-Nano Grid / 2021-03-21
-
-[![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rama-o/nano-grid) [![Website](https://img.shields.io/badge/Website-966?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rama-o/nano-grid)
-
-</summary>
-
-Nano Grid is a **Node module** and frontend toolkit powered by CSS and Web Components. It provides a lightweight, modular framework to build responsive layouts and interactive interfaces with minimal dependencies.
-
-</details>
-
-<details name="project">
-<summary>
-Romala / 2021-03-05
-
-[![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rama-o/romala) [![Website](https://img.shields.io/badge/Website-966?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rama-o/romala)
-
-</summary>
-
-Romala is a **Debian package** that provides an extended keyboard layout for Romance languages. It includes dead keys, accents, and a rich set of math, logic, and special symbols, making typing in multiple languages fast, efficient, and expressive.
-
-![Romala keyboard](https://raw.githubusercontent.com/rama-o/romala/master/keyboard.webp)
-
-> Keyboard preview
 
 </details>
 
