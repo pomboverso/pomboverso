@@ -1,76 +1,36 @@
-![Mountains](img/cover.svg)
-
-<!-- Tech badges with pastel colors -->
-
-![HTML](https://img.shields.io/badge/HTML-F5D0C5?style=for-the-badge)
-![SVG](https://img.shields.io/badge/SVG-FDE2A8?style=for-the-badge)
-![Web Components](https://img.shields.io/badge/Web_Components-D0E8F2?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-C3D4E3?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-FBF5B5?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-D1E8D1?style=for-the-badge)
-![Vitest](https://img.shields.io/badge/Vitest-E2E0FF?style=for-the-badge)
-![Storybook](https://img.shields.io/badge/Storybook-FDCFE8?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F2C1BD?style=for-the-badge)
-![Vue.js](https://img.shields.io/badge/Vue.js-D0F0E3?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FEF3C7?style=for-the-badge)
-
 # Olá!
 
-I'm a passionate **frontend developer** with a strong focus on building custom web applications mostly using **Vue** with some knowledge about **Web Components**.
+ I build frontend systems where components behave, performance stays in check, and UX doesn't get left behind.
 
-With years of experience across various industries, I've contributed to **UI libraries**, optimized performance, and collaborated closely with cross functional teams to deliver seamless user experiences. My expertise includes modern frontend frameworks, component-driven development, and testing methodologies using tools like **Storybook** and **Vitest**.
+Most of my work revolves around **Vue**, with some **Web Components** when things need to stay framework agnostic. I've helped shape UI libraries, optimize real world applications, and collaborate with teams to turn messy requirements into clean interfaces.
 
 ## Open Source Projects
 
-<details name="project" open>
-<summary>
-Mako Launcher / 2025-12-19
+### Mako / 2025-12-19
 
-[![Github Source](https://img.shields.io/badge/Github%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rama-io/mako) [![Website](https://img.shields.io/badge/Website-966?style=for-the-badge&logo=github&logoColor=white)](https://rama-io.github.io/mako.html)
-</summary>
+[![Preview](https://raw.githubusercontent.com/rama-io/mako/1137d65fd131ee354a9a8b114bf93cfa3a3235eb/docs/img/mako_header_1200x630.svg)](https://github.com/rama-io/mako)
+[![Badge](https://rama-io.github.io/img/badge_mako.svg)](https://github.com/rama-io/mako)
 
-![Preview](https://raw.githubusercontent.com/rama-io/mako/1137d65fd131ee354a9a8b114bf93cfa3a3235eb/docs/img/mako_header_1200x630.svg)
+**Mako** is an **Android launcher** designed for focus, speed, and simplicity.
 
-**Mako** is a **minimal, privacy-first Android launcher** designed for focus, speed, and
-simplicity.
-
-Built entirely in **native Kotlin**, Mako runs fully **on-device**, avoids tracking, and keeps
-distractions to a minimum by emphasizing clarity and intentional interaction.
+<p>
+  <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/rama-io/mako">
+    <img src="https://rama-io.github.io/img/obtainium.png" alt="Get mako From Obtainium">
+  </a>
+  &nbsp;
+  <a href="https://f-droid.org/app/com.rama.mako">
+    <img src="https://rama-io.github.io/img/fdroid.png" alt="Get mako From F-Droid">
+  </a>
+  &nbsp;
+  <a href="https://github.com/rama-io/mako/releases/latest">
+    <img src="https://rama-io.github.io/img/github.png" alt="Get mako From GitHub">
+  </a>
+</p>
 
 | Home | Settings | About |
 | - | - | - |
-| ![Home](https://raw.githubusercontent.com/rama-io/mako/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png) | ![Settings](https://raw.githubusercontent.com/rama-io/mako/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png) | ![About](https://raw.githubusercontent.com/rama-io/mako/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png) |
-</details>
+| ![Home](https://raw.githubusercontent.com/rama-io/mako/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png) | ![Settings](https://raw.githubusercontent.com/rama-io/mako/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png) | ![About](https://raw.githubusercontent.com/rama-io/mako/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png) |
 
-<details name="project">
-<summary>
-LoM DB / 2024-12-05
-
-[![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lomdb/lomdb.github.io) [![Website](https://img.shields.io/badge/Website-696?style=for-the-badge&logo=github&logoColor=white)](https://lomdb.github.io)
-</summary>
-
-
-[![LoM DB Logo](https://lomdb.github.io/img/lomdb-preview.webp)](https://lomdb.github.io)
-
-An interactive visual archive tracking all known server merges and top player data across regions in Legend of Mushrooms, built for clarity and community insight.
-
-[![LoM DB Preview](https://lomdb.github.io/img/svg/lom_header-draco.svg?v=2)](https://lomdb.github.io)
-
-> Draco Ascension SVG Cinematic
-
-![3D Graph](https://raw.githubusercontent.com/lomdb/lomdb.github.io/master/metadata/0-min.webp)
-
-> Servers' Size Comparison Graph
-
-![Merge Tracker](https://raw.githubusercontent.com/lomdb/lomdb.github.io/master/metadata/1-min.webp)
-
-> Merge Tracker
-
-![Servers' age](https://raw.githubusercontent.com/lomdb/lomdb.github.io/master/metadata/2-min.webp)
-
-> Servers' Age
-
-</details>
 
 ## Experiments
 
