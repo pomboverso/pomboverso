@@ -15,7 +15,7 @@ Most of my work revolves around **Vue**, with some **Web Components** when thing
 
 <p>
   <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/rama-io/mako">
-    <img src="https://rama-io.github.io/img/obtainium.png" alt="Get mako From Obtainium">
+    <img src="https://rama-io.github.io/img/obtainium.svg" alt="Get mako From Obtainium">
   </a>
   &nbsp;
   <a href="https://f-droid.org/app/com.rama.mako">
